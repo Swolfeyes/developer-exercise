@@ -1,0 +1,12 @@
+.itemPrice {
+  display: flex;
+
+  span {
+    font-size: 12px;
+    color: (#ccc - 50);
+  }
+
+  &__value {
+    margin-left: 5px;
+  }
+}

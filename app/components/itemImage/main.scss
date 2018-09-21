@@ -1,0 +1,10 @@
+.itemImage {
+  width: 100%;
+  box-shadow: 1px 1px 5px (#ddd - 20);
+  overflow: hidden;
+  
+  img {
+    width: 100%;
+    max-width: 100%;
+  }
+}
